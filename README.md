@@ -61,5 +61,5 @@ This project demonstrates an end-to-end data analytics workflow using web scrapi
 
 ## 👤 Author
 **Vishal Sanjay Raut**  
-🔗 [LinkedIn](https://www.linkedin.com/in/vishalraut)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishal-raut8)  
 🔗 GitHub: https://github.com/vishalraut
